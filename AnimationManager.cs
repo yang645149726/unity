@@ -2,7 +2,11 @@
 /// Animation manager
 /// This script use for control animation of character.
 /// </summary>
+<<<<<<< Updated upstream
 //修改
+=======
+/// 111111
+>>>>>>> Stashed changes
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
