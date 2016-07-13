@@ -2,7 +2,7 @@
 /// Animation manager
 /// This script use for control animation of character.
 /// </summary>
-
+//修改
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
